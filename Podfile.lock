@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.2.0)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2.0)
+  - YYText (~> 1.0.7)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: bfa6a017c294ef0eb8caaee87f99cdc99effbffd
+
+COCOAPODS: 1.1.1
